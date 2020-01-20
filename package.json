@@ -1,0 +1,27 @@
+{
+  "name": "nodekit",
+  "version": "1.0.0",
+  "description": "nodekit",
+  "main": "nodekit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishwargehlot/nodekit.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "mean"
+  ],
+  "author": "ishwar singh gehlot <gehlotishwar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishwargehlot/nodekit/issues"
+  },
+  "homepage": "https://github.com/ishwargehlot/nodekit#readme",
+  "bin": {
+    "nodekit": "./bin/nodekit"
+  }
+}
